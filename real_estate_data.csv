@@ -1,0 +1,6 @@
+total_sqft,num_bedrooms,num_bathrooms,location,property_type,price
+1500,3,2,New York,Apartment,500000
+2500,4,3,San Diego,House,750000
+1800,3,2,Boston,Apartment,620000
+2000,4,3,San Francisco,House,900000
+1300,2,1,Seattle,Apartment,450000
